@@ -6,7 +6,7 @@ s.name = 'VanadisUICollectionCocoaPod'
 
 s.version = '0.0.2'
 
-s.summary = 'Componente de Colección de Vanadis'
+s.summary = 'Componente de Collection de Vanadis'
 
 s.homepage = 'http://vanadis.es'
 
@@ -31,10 +31,10 @@ s.source = {
 s.source_files = 'VanadisUICollectionCocoaPod/classes/*.{m,h}'
 s.resource_bundles = {
 'VanadisUICollection' => ['VanadisUICollectionCocoaPod/assets/*.*']
+
 }
 s.requires_arc = true
 
 s.dependency 'VanadisInternetConnectionIndicator'
 
 end
-
