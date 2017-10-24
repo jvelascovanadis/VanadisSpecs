@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
 s.name = 'VanadisChatBotUI'
-s.platform     = :ios, '9.0'
+s.platform     = :ios, '8.0'
 s.version = '0.1.3'
 s.summary = 'Componente de UI para Chatbot'
 s.homepage = 'http://vanadis.es'
